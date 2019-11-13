@@ -1,0 +1,20 @@
+PODS:
+  - ChirpSDK (3.6.0)
+  - Toast-Swift (5.0.0)
+
+DEPENDENCIES:
+  - ChirpSDK
+  - Toast-Swift (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - ChirpSDK
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  ChirpSDK: 2de51656ff152703d722bff2ec1f3c5630253365
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+
+PODFILE CHECKSUM: a161bd624ad38f3bd7dcdd8752be78f5bb15f57f
+
+COCOAPODS: 1.8.4
