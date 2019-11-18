@@ -4,7 +4,8 @@ This project is an example application of Chirp technology
 
 ## Installation
 
-Clone project
+Clone project,if you already signed up on  https://developers.chirp.io/ go to Applications and get your three part credentials Key, Secret,Config. You can play with different configurations, observe how different sound patterns can transmit different sizes of data.
+Go to git repo, clone, in ChirpConstants replace existing credentials with yours, build and you are ready to start chirping
 
 ## Usage
 
